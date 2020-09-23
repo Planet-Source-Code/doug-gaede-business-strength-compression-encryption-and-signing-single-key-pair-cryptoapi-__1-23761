@@ -1,0 +1,7 @@
+frmEncryptSingleKey = 66, 66, 432, 406, C, 22, 22, 382, 362, C
+clsCryptoAPIandCompression = 44, 44, 404, 384, C
+Module1 = 44, 44, 449, 392, C
+frmCompress = 66, 66, 472, 414, C, 22, 22, 428, 370, C
+frmEncryptKeyPair = 22, 22, 428, 370, C, 66, 66, 472, 414, C
+frmHelp = 88, 88, 485, 436, C, 66, 66, 463, 414, C
+frmKeyLength = 154, 154, 553, 494, C, 132, 132, 531, 472, C
