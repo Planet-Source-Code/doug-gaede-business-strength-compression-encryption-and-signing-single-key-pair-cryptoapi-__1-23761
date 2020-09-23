@@ -1,0 +1,1 @@
+This project obtains a random string using the CryptAPI.  This function is much more random than VB's internal randomization routines.
